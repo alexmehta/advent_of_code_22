@@ -1,4 +1,3 @@
-import operator
 if __name__ == "__main__":
     elfs = [0]
     elf = 0
