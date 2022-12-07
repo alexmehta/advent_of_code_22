@@ -9,4 +9,5 @@ while True:
             summ += (ord(char) -64) + 26 
         else:
             summ += (ord(char) -96)
+       
 print(summ)

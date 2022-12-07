@@ -1,0 +1,6 @@
+" Press ? for help
+
+.. (up a dir)
+/home/alex/aoc22/day5/
+  input.txt
+  part1.py
